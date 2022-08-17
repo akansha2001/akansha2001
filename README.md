@@ -28,9 +28,9 @@
 <h3 align="left">📫 For reaching me, consider the following options:</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/adi666-png/adi666-png/blob/main/assets/handshake.gif">
 <p align="left">
-<a href="https://linkedin.com/in/dongdong" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="dongdong" height="50" width="50" /></a>
-<a href="https://www.google.co.in" target="blank"><img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/03/icon-3s-360px.gif" alt="dingdong" height="100" width="100"/></a>
-<a href="mailto:adityanath@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/361933/screenshots/1945591/mail.gif" alt="adityanath@gmail.com" height="50" width="65"/></a>
+<a href="https://www.linkedin.com/in/akansha-mukherjee-a2ba321a6/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="akansha-mukherjee-a2ba321a6" height="50" width="50" /></a>
+<a href="https://www.akansha2001.github.io" target="blank"><img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/03/icon-3s-360px.gif" alt="dingdong" height="100" width="100"/></a>
+<a href="mailto:mukherjeeakansha07@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/361933/screenshots/1945591/mail.gif" alt="mukherjeeakansha07@gmail.com" height="50" width="65"/></a>
 </p>
 
 ---
