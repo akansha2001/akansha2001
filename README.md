@@ -5,10 +5,10 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Primary+Interests:&color=00FF00)
-- 😀 Hi, I’m @akansha2001, a final year undergraduate student at ETCE@Jadavpur University.
-- 🧐 I’m interested in Machine Learning and its practical applications in automated systems.
+- 😀 Hi, I’m @akansha2001, a Master Robotics student at TU Delft.
+- 🧐 I’m interested in algorithms for mobile robots and its practical applications.
 - ⚽ I am a major sports enthusiast, and am hoping to develop automated robotic technology to assist in the training and development of athletes.
-- 🧠 For my final year project, I am working on developing a mathematical model to obtain solutions of constrained optimization tasks.
+
 
 
 ---
@@ -18,12 +18,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Work:&color=FFC0CB)
 
  
-- Working on zero-shot urban object recognition. 
+- Working on my Master thesis: modeling and accounting for interaction uncertainty in task and motion planning for decentralized multi-agent settings.
 
-- Computer Vision: developed a regularization technique for Single Image Super Resolution and Convolutional Neural Networks in low data regimes.
-
-- Implemented SAR image despeckling algorithm with faster convergence for real-time image processing.
-
+  
 
 
 ---
